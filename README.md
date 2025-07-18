@@ -16,8 +16,11 @@ The app supports both a graphical interface (Tkinter) and a command-line interfa
 PDF Scrapper/
 
 ├── app.py              # Main application (GUI & CLI)
+
 ├── config.py           # Configuration
+
 ├── requirements.txt    # Python dependencies
+
 ├── .env                # Environment variables
 
 
